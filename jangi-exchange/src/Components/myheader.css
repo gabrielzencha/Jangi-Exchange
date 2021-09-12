@@ -1,0 +1,23 @@
+.headerBody {
+   height: 100%;
+   width: 100%;
+   font-size: medium;
+   margin: 25px;
+   padding: auto;
+}
+.maindiv1, .maindiv2, .maindiv3 {
+    display: inline-block;
+    *display: inline;
+    zoom: normal;
+    vertical-align: top;
+   margin: 20px;
+}
+
+.div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8 {
+    display: inline-block;
+    *display: inline;
+    zoom: normal;
+    vertical-align: top;
+   margin: 10px;
+
+}
